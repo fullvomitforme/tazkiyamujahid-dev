@@ -30,7 +30,6 @@ export default function Home({ allPostsData }) {
         <p>
           <b>#HappyCoding #AlwaysLearning</b>
         </p>
-        <p>Production Branch</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
